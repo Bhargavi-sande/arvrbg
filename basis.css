@@ -1,0 +1,28 @@
+body{
+    background-image: url(../asserts/arvrbg.png); 
+    background-size: cover;
+}
+#style1{
+    color: #5752ab;
+    margin-left: 60px;
+    padding-top: 50px;
+}
+#style2{
+    color: #323f4b;
+    margin-left: 60px;
+}
+#style3{
+    background-color: #171f46;
+    margin-left: 60px;
+    
+}
+#con{
+    margin-top: 1250px;
+    background-color: #ffffff;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    max-width: none;
+}
+#style4{
+    margin-left: 60px;
+}
